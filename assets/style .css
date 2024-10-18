@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(161, 59, 41);
+
+    }
+
+    footer {
+        background-color: rgb(0, 0, 0);
+        color: rgb(248, 7, 7);
+        position: fixed;
+        bottom: 0%;
+        width: 100%;
+        }
+
+        footer p {
+        text-align: center;
+        font-size: 0.6rem;
+    background-color: white;
+    
+}
+#conteiner {
+    display: flex;
+}
+.cartao {
+    margin: 1rem 1rem;
+    background-color: rgb(224, 150, 13);
+}
